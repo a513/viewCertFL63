@@ -6,6 +6,7 @@ issued in accordance with the requirements of the Order of the Federal Security 
 "On the approval of the requirements for the form of a qualified certificate ...".
 The utility is written in Python-2.7 / 3.5 using Tkinter.
 Author - [Orlov Vladimir](http://museum.lissi-crypto.ru/)
+
 Email: vorlov@lissi.ru
 
 
@@ -16,6 +17,7 @@ viewCertFL63 это графическая утилита для просмот�
 "Об утверждении требований к форме квалифицированного сертификата...".
 Утилита написана на языке Python-2.7/3.5 с использованием Tkinter.
 Автор - [Орлов Владимир](http://museum.lissi-crypto.ru/)
+
 Email: vorlov@lissi.ru
 
 
